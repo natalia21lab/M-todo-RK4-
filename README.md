@@ -8,4 +8,4 @@ $$
 \frac{dy}{dt} = f(t,y); y({t_0})= y_0
 $$ 
 
-Donde y es un estado del sistema, a la vez que t es la variable tiempo. 
+Donde y es un estado del sistema, a la vez que t es la variable temporal.  
