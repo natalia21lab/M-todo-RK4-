@@ -1,4 +1,0 @@
-##El método Runge Kutta
-
-Es un método numérico enfocado en resolver problemas que involucran ecuaciones diferenciales con condiciones iniciales; 
-existen variables de este método pero el más usado es el que se escoge un tamañp de paso h y un número n de iteraciones. 
