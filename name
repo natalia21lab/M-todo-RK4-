@@ -1,0 +1,10 @@
+site_name: Método RK4
+theme:
+  name: "material"
+nav: 
+  - index.md
+  - tutorials.md
+  - reference.md
+  - explanations.md
+plugins: 
+  - mkdocstrings  
